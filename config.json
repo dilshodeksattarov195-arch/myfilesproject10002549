@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfecrypt",
+        "uuid": 20932388,
+        "checksum": "chetu"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
